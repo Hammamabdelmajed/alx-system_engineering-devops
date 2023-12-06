@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c "%A %h %U %G %s %n" _ls_
+stat -c "%A %h %U %G %s %n" sym/_ls_
