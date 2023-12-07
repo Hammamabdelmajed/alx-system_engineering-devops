@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la hello | awk '{print $1}'
+ls -la hello | cut -d ' ' -f 1 | uniq
