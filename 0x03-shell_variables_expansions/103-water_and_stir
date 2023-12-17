@@ -1,0 +1,2 @@
+#!/bin/bash
+$(($(($WATER#$wwater))+$(($STIR#stir))=#bestchol))
